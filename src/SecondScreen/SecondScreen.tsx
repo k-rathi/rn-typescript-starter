@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { StyleSheet, Text, View, Button } from 'react-native';
+import { StyleSheet, Text, Button } from 'react-native';
 import { LinearGradient } from 'expo';
 import { SafeAreaView } from 'react-navigation';
 
